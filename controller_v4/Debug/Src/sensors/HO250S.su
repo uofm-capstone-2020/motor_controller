@@ -1,0 +1,9 @@
+HO250S.c:48:6:start_iabc_conversions	0	static
+HO250S.c:56:6:check_for_iabc_zeros	8	static
+HO250S.c:71:6:update_iabc	40	static
+HO250S.c:34:6:ho250S_init	48	static
+HO250S.c:123:6:recalibrate_adcs	24	static
+HO250S.c:138:6:get_current_offsets	40	static
+HO250S.c:162:10:fast_rx	24	static
+HO250S.c:181:6:spi_rx_byte	24	static
+HO250S.c:218:6:delay_us	16	static

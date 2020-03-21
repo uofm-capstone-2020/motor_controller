@@ -1,0 +1,5 @@
+control.c:32:6:HAL_TIM_PeriodElapsedCallback	8	static
+control.c:61:6:control_init	32	static
+control.c:75:6:control_enable	8	static
+control.c:87:6:check_enable_switch	16	static
+control.c:126:6:control_disable	8	static

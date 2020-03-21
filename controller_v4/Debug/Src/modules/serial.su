@@ -1,0 +1,9 @@
+serial.c:25:6:error_handler	0	static
+serial.c:88:6:download_log	168	static
+serial.c:16:9:derive_address	0	static
+serial.c:20:6:serial_init	0	static
+serial.c:30:6:_handle	16	static
+serial.c:75:8:send_message_DMA	16	static
+serial.c:84:23:getUARTState	0	static
+serial.c:109:6:HAL_UART_RxCpltCallback	16	static
+serial.c:114:6:HAL_UART_TxCpltCallback	0	static

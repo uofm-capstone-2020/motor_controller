@@ -1,0 +1,8 @@
+inner.c:18:6:Inner_initialize	0	static
+inner.c:37:6:parkTransform	32	static
+inner.c:52:6:PI_controllers	0	static
+inner.c:70:6:vdq_saturation	32	static
+inner.c:28:6:Inner_step	32	static
+inner.c:104:6:init_PI_constants	0	static
+inner.c:130:6:getSinValues	16	static
+inner.c:140:6:getCosValues	16	static

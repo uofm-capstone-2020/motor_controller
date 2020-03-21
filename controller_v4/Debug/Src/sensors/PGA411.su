@@ -1,0 +1,10 @@
+PGA411.c:317:10:hal_Xmit4BSPI	48	static
+PGA411.c:182:20:pga411_XmitSPI.isra.0.constprop	16	static,ignoring_inline_asm
+PGA411.c:182:20:pga411_XmitSPI.isra.0.constprop	16	static,ignoring_inline_asm
+PGA411.c:438:10:fast_txrx	32	static
+PGA411.c:159:6:pga411_FaultReset	8	static
+PGA411.c:230:6:pga411_WriteReg	40	static
+PGA411.c:236:6:pga411_ReadAll	24	static,ignoring_inline_asm
+PGA411.c:138:6:pga411_Init	40	static,ignoring_inline_asm
+PGA411.c:304:6:pga411_checkFaults	40	static,ignoring_inline_asm
+PGA411.c:359:6:update_rdc_values	8	static

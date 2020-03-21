@@ -1,0 +1,6 @@
+flash.c:7:8:sector_from_address	0	static
+flash.c:59:19:flash_erase_sector	40	static
+flash.c:72:19:flash_erase	24	static
+flash.c:86:19:flash_program_byte	16	static
+flash.c:99:19:flash_program_sequential	32	static
+flash.c:119:19:flash_program	16	static

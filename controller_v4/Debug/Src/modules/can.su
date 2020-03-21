@@ -1,0 +1,2 @@
+can.c:11:6:can_init	16	static
+can.c:26:6:can_poll	40	static

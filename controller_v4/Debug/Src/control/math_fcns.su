@@ -1,0 +1,7 @@
+math_fcns.c:10:7:sin_interpolation	0	static
+math_fcns.c:28:7:cos_interpolation	0	static
+math_fcns.c:46:7:absVal	0	static
+math_fcns.c:57:7:fSaturate	0	static
+math_fcns.c:69:5:iSaturate	0	static
+math_fcns.c:81:5:max	0	static
+math_fcns.c:102:5:min	0	static

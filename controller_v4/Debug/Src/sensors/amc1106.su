@@ -1,0 +1,3 @@
+amc1106.c:30:6:amc1106_init	8	static
+amc1106.c:42:6:start_Vdc_conversion	0	static
+amc1106.c:49:6:update_Vdc	8	static

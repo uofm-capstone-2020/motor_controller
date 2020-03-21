@@ -1,0 +1,11 @@
+log.c:135:6:do_nothing	0	static
+log.c:25:6:log_init	8	static
+log.c:35:6:log_push	24	static
+log.c:85:6:live_log_push_high_freq	24	static
+log.c:109:6:live_log_push_low_freq	16	static
+log.c:131:6:set_frequency	0	static
+log.c:139:6:enable_live_log	0	static
+log.c:143:6:disable_live_log	0	static
+log.c:147:6:cease_logging	0	static
+log.c:151:6:resume_logging	0	static
+log.c:155:5:log_pop	24	static

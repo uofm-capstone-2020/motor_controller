@@ -1,0 +1,4 @@
+PWM.c:82:6:PWM_initialize	8	static
+PWM.c:107:6:inverse_park_transform	32	static
+PWM.c:16:6:PWM_TswCalculations	48	static
+PWM.c:142:7:check_zero_Vdc	0	static
